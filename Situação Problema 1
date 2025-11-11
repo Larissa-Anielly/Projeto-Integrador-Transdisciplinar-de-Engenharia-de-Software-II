@@ -1,0 +1,22 @@
+Situação Problema 1
+-------------------------------------------------------------------
+
+No dias atuais, a expressão tempo é dinheiro nunca foi tão verdadeira.
+Em uma bela manhã de quarta-feira, você chega ao trabalho e percebe que já há pessoas sentadas em frente à sua mesa de trabalho esperando por você.
+São usuários aflitos querendo consultá-lo para uma solução de uma entrega "para hoje". Assim, eles relatam o problema:
+Precisamos criar um módulo no sistema que visualize os pedidos dos vendedores e que seja passivel de ser corrigido ou modificado antes de ele virar ordem de serviço. Mas não há tempo de colocar o projeto na fila de serviços de Tl para ser desenvolvido.
+Não temos experiência em desenvolvimento, mas temos excelente visão de negócios e conhecemos a operação de sistemas como ninguém. O que você sugere?
+Você avalia a situação e verifica que há uma potencial solução, Então, você sugere...
+
+-------------------------------------------------------------------
+
+Situação 1
+
+Como descrito no corpo teórico e na apresentação desta Unidade, é importante aproveitar esse tempo para revisar o planejamento.
+O KaiZen (melhoria contínua) é de fundamental importância para a criação de produtos de software melhores e mais adequados. Para podermos potencializar a solução planejada no Projeto Integrador Transdisciplinar de Engenharia de Software I, embarcar mais detalhes e corrigir conceitos quando aplicável, pedimos que você, estudante:
+
+ - Verifique e adeque seu escopo/ideia e a prepare para a execução;
+ - Verifique e adeque os elementos de modelagens da solução feitos em UML (diagramas de classe, casos de uso, sequência, atividades etc.), veja onde podemos colocar melhorias e alterações necessárias visando acurácia da modelagem;
+ - Verifique e adeque os elementos da IHC (Interface Humano Computador) para poder refletir o que você pretende desenvolver em nível de telas, mensagens de erro, mapas conceituais, além de revisar o próprio protótipo incrementando-o;
+ - Faça ou revise os projetos relacionados aos dados a partir do diagrama de classes de persistência (projeto conceitual, projeto lógico normalizado);
+ - Execute o projeto físico do banco de dados que servirá a sua aplicação (web ou mobile), documente-o e crie o dicionário de dados.
