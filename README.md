@@ -44,7 +44,7 @@ Plataforma full-stack no-code que permite **integrações com APIs, bancos de da
 1. Listar as tabelas e endpoints existentes que contêm pedidos.  
 2. Definir os pontos de integração entre o sistema atual e o Bubble.  
 
-> 🔗 [Link do banco de dados do Bubble](#)
+> 🔗 [Link do banco de dados do Bubble](https://bubble.io/page?id=pitengenharia-de-softwar&tab=Data&name=index&type=page&type_id=pedidos)
 
 ---
 
@@ -57,7 +57,7 @@ Plataforma full-stack no-code que permite **integrações com APIs, bancos de da
   - **“Confirmar → Transformar em OS”** (chama endpoint)  
 - Registrar log de auditoria (quem alterou, quando, antes/depois)  
 
-> 🔗 [Link do editor do Bubble](#)
+> 🔗 [Link do editor do Bubble](https://bubble.io/page?id=pitengenharia-de-softwar&tab=Design&name=index&type=page)
 
 ---
 
@@ -98,7 +98,7 @@ Plataforma full-stack no-code que permite **integrações com APIs, bancos de da
   - Passo a passo para transformar em OS  
 - Treinamento rápido (30–60 min) para usuários responsáveis  
 
-> 🔗 [Link da pasta do Git](#)
+> 🔗 [Link da pasta do Git](https://github.com/Larissa-Anielly/Projeto-Integrador-Transdisciplinar-de-Engenharia-de-Software-II)
 
 ---
 
@@ -108,6 +108,7 @@ Plataforma full-stack no-code que permite **integrações com APIs, bancos de da
 - Monitorar erros e comportamento nos primeiros dias  
 - Coletar feedback e aplicar melhorias contínuas  
 
+> 🔗 [Link do projeto PIT](https://pitengenharia-de-softwar.bubbleapps.io/version-test/)
 ---
 
 ## ⚡ Conclusão
